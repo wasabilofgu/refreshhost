@@ -1,3 +1,8 @@
 cf.090227.xyz#三网自适应分流
 ct.090227.xyz#电信官方优选
 cmcc.090227.xyz#移动官方优选
+speed.marisalnc.com#ktff_1000ip/3分钟
+freeyx.cloudflare88.eu.org#同marisalnc
+cloudflare.182682.xyz#182682
+115155.xyz#115155
+cdn.2020111.xyz#2020111
